@@ -1,0 +1,24 @@
+{
+  "employeeId": 2020985,
+  "firstName": "Tajinder Singh",
+  "lastNme": "Dhoot",
+  "teams": [
+    "BOF",
+    "Partnership",
+    "DSS"
+  ],
+  "jobTitle": "QA Analyst",
+  "teamRoles": [
+    {
+      "team": "BOF",
+      "role": "QA Support"
+    },
+    {
+      "team": "Print Services",
+      "role": "QA Lead"
+    },{
+      "team": "BOF",
+      "role": "QA Support"
+    }
+  ]
+}
